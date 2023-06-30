@@ -22,12 +22,20 @@ Corresponding satellite image coverage is shown below. Each polygon is coverage 
 
 ![](./Images/Sat_Coverage.PNG)
 
-Being multi-date and multi-view images the satellite positions play role in stereo pair selection. The following plot show satellite position distribution for each region.  Note that WoldView2 images are available in Atlanta region therefor it has different resolution (see colorbar) as compared to the other regions.
+Being multi-date and multi-view images the satellite positions play a role in stereo pair selection. The following plot shows satellite position distribution for each region. Note that WoldView2 images are available in the Atlanta region therefore it has different resolution (see colorbar) as compared to the other regions.
 ![](./Images/sat_angles.PNG)
 
-We are currently preparing release of the Stellar dataset. The dataset is >300 GB and we're planning to release it in the following three parts 
+We are currently preparing the release of the Stellar dataset. The dataset is >300 GB and we're planning to release it in the following three parts
 
 TODO 
 - [ ] Stereo pairs with ground truth disparity maps (Download links coming soon)
 - [ ] Unified Lidar DSM with semantic labels (where available) (Download links coming soon)
 - [ ] Utility scripts to process the dataset which will be available in this repository.  
+  
+  ## Source Data Attribution
+  The authors would like to thank the following public satellite and lidar datasets
+
+   1. https://spacenet.ai/iarpa-multi-view-stereo-3d-mapping/
+   2. https://spacenet.ai/core3d/
+   3. https://spacenet.ai/off-nadir-building-detection/
+   
