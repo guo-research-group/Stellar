@@ -1,4 +1,8 @@
 # Stellar: A Large Satellite Stereo Dataset for Digital Surface Model Generation
+
+Stellar is available for download from the following link
+https://www.dropbox.com/sh/28ccyqiebizqagc/AADS5DhpVWJAyd53izbLTHPya?dl=0
+
 This repository provides instructions and download links for the Stellar dataset. It contains stereo rectified stereo pairs and the ground truth disparity is adjusted to unipolar using SRTM DEM. Additionally we also provide access to ground truth Lidar Digital Surface Model (DSM) where the vertical datum is adjusted to WGS84 ellipsoid. If you use this dataset and code in your work, please kindly cite the following paper:
 
 ```
@@ -28,8 +32,8 @@ Being multi-date and multi-view images the satellite positions play a role in st
 We are currently preparing the release of the Stellar dataset. The dataset is >300 GB and we're planning to release it in the following three parts
 
 TODO 
-- [ ] Stereo pairs with ground truth disparity maps (Download links coming soon)
-- [ ] Unified Lidar DSM with semantic labels (where available) (Download links coming soon)
+- [x] Stereo pairs with ground truth disparity maps (Download link is now available)
+- [x] Unified Lidar DSM with semantic labels (where available) (Download link is now available)
 - [ ] Utility scripts to process the dataset which will be available in this repository.  
   
   ## Source Data Attribution
