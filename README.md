@@ -46,4 +46,6 @@ TODO
    1. https://spacenet.ai/iarpa-multi-view-stereo-3d-mapping/
    2. https://spacenet.ai/core3d/
    3. https://spacenet.ai/off-nadir-building-detection/
+   4. https://www.floridagio.gov/pages/lidar-resources
+   5. https://apps.nationalmap.gov/lidar-explorer/#/
    
